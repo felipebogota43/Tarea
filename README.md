@@ -29,7 +29,7 @@ También hubo listas numeradas para hitos:
 1985: Super Mario Bros.
 
 Géneros Populares
-Los videojuegos se dividen en géneros que atraen a diferentes jugadores. Aquí un enlace a Google Scholar para estudios académicos sobre su impacto.
+Los videojuegos se dividen en géneros que atraen a diferentes jugadores. 
 
 Mejores Juegos por Década
 Década	 Juego Emblemático	 Plataforma	 Nota (de 10)
